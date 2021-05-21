@@ -1,0 +1,172 @@
+body {
+    background: #fafafa;
+    color: #333333;
+    margin-top: 5rem;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #444444;
+  }
+  
+  ul {
+    margin: 0;
+  }
+  
+  .bg-steel {
+    background-color:rgb(192, 15, 50);
+  }
+  
+  .navbar-brand{
+    color: white;
+    font-size: xx-large;
+    font-family: cursive;
+    font-weight: bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .site-header .navbar-nav .nav-link {
+    color: white;
+  }
+  
+  .site-header .navbar-nav .nav-link:hover {
+    color: white;
+  }
+  
+  .site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+  }
+  
+  .content-section {
+    background: #ffffff;
+    padding: 10px 20px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    border: 5px solid #dddddd;
+    font-family: Times New Roman;
+  }
+  
+  .article-title {
+    color: #444444;
+  }
+  
+  a.article-title:hover {
+    color: #428bca;
+    text-decoration: none;
+  }
+  
+  .article-content {
+    white-space: pre-line;
+    column-gap: 40px;
+  }
+  
+  .about-img {
+    height: auto;
+    width: auto;
+    margin-right: 16px;
+  }
+  
+  .article-img {
+    height: 65px;
+    width: 65px;
+    margin-right: 16px;
+  }
+  
+  .article-metadata {
+    padding-bottom: 1px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid #e3e3e3
+  }
+  
+  .article-metadata a:hover {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .article-svg {
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+  }
+  
+  .account-img {
+    height: 125px;
+    width: 125px;
+    margin-right: 20px;
+    margin-bottom: 16px;
+  }
+  
+  .account-heading {
+    font-size: 2.5rem;
+  }
+  
+  .section1 {
+    float: left;
+    margin: 0 0.5%;
+    width: 75%;
+  }
+  .aside1 {
+    float: right;
+    margin: 0 0.5%;
+    width: 30%;
+  }
+  
+  .home-img {
+    height: 200px;
+    width: 225px;
+  }
+  
+  
+  
+  .fa-1x {
+    font-size: 1.5rem;
+  }
+  
+  .navbar-toggler.toggler-example {
+    cursor: pointer;
+  }
+  
+  .dark-blue-text {
+    color: #0A38F5;
+  }
+  
+  .dark-pink-text {
+    color: #AC003A;
+  }
+  
+  .dark-amber-text {
+    color: #ff6f00;
+  }
+    
+  .dark-teal-text {
+    color: #004d40;
+  }
+  
+  .active-header {
+    background-color: #c94c4c;
+    color: white;
+    text-align: right;
+    font-weight: bolder;
+    font-size: xx-large;
+  }
+  .btn btn-primary{
+    display:block;
+    text-align: center;
+    align-self: center ;
+  }
+  .card-img-top{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  h3{
+    text-align: center;
+  }
+  .wrapper {
+    text-align: center;
+  }
+  
+  .button {
+    position: absolute;
+    bottom: 80%;
+  }
